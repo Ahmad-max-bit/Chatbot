@@ -6,16 +6,16 @@ import './App.css'
 
 function App() {
         const [chatMessages, setChatMessages] = useState([
-          {
-            message: "hello chatbot",
-            sender: "user",
-            id: "id1",
-          },
-          {
-            message: "Hello! How can I help you?",
-            sender: "robot",
-            id: "id2",
-          },
+          // {
+          //   message: "hello chatbot",
+          //   sender: "user",
+          //   id: "id1",
+          // },
+          // {
+          //   message: "Hello! How can I help you?",
+          //   sender: "robot",
+          //   id: "id2",
+          // },
           // {
           //   message: "can you get me todays date?",
           //   sender: "user",
